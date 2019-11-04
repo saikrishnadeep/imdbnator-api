@@ -28,7 +28,7 @@
     "minimist": "^1.2.0",
     "moment": "^2.18.1",
     "mongodb": "^2.2.31",
-    "mongoose": "^4.11.9",
+    "mongoose": "^5.7.5",
     "mongoose-unique-validator": "^1.0.5",
     "shelljs": "^0.7.8",
     "shortid": "^2.2.8",
